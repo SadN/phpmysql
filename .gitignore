@@ -10,3 +10,4 @@ doc/
 Gemfile.lock
 phpinfo.php
 login.php
+*.jpg
