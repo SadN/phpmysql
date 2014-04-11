@@ -18,7 +18,10 @@ Epilogi <input type="checkbox" name="checkboxname" value="checkbox_value" checke
 
 <textarea name="textarea_name" cols=10 rows=5 wrap="soft">
 This is some default text
-</textarea>
+</textarea><br />
+
+<label> Male <input type="radio" name="sex" value="M" /> </label>
+<label> Female <input type="radio" name="sex" value="F" /></label>
 
 </form>
 </body>
