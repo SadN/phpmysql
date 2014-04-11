@@ -34,3 +34,8 @@
 [11-Apr-2014 04:29:04 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/emptysac/public_html/word.emptysack.com/sqltest.php on line 70
 [11-Apr-2014 04:29:15 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home/emptysac/public_html/word.emptysack.com/sqltest.php on line 75
 [11-Apr-2014 04:51:06 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/emptysac/public_html/word.emptysack.com/formtest2.php on line 3
+[11-Apr-2014 08:53:10 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/emptysac/public_html/word.emptysack.com/setupusers.php on line 21
+[11-Apr-2014 08:53:54 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/emptysac/public_html/word.emptysack.com/setupusers.php on line 21
+[11-Apr-2014 08:54:06 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/emptysac/public_html/word.emptysack.com/setupusers.php on line 21
+[11-Apr-2014 09:19:17 America/Chicago] PHP Fatal error:  Call to undefined function mysql_select_database() in /home/emptysac/public_html/word.emptysack.com/authenticate.php on line 5
+[11-Apr-2014 09:27:42 America/Chicago] PHP Fatal error:  Call to undefined function mysql_select_database() in /home/emptysac/public_html/word.emptysack.com/authenticate.php on line 5
